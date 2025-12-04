@@ -28,7 +28,7 @@ detector = aptags.Detector(
     debug=0
 )
 
-TAG_SIZE = 0.08
+TAG_SIZE = 0.08 # meter
 
 CAP_INDEX = 0
 

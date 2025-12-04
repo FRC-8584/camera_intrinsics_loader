@@ -5,7 +5,7 @@ import sys
 from tqdm import tqdm
 
 CHECKERBOARD = (10, 7)
-SQUARE_SIZE = 2.5
+SQUARE_SIZE = 2.5 # centimeter
 CAPTURE_PER_SECOND = 1.0
 TARGET_CALIBRATION_IMAGES = 40
 
