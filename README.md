@@ -27,7 +27,7 @@ Distortion coefficients dist =
 
 Copy the printed K and distortion values into the JSON file:
 
-```json
+```
 {
     "MyCamera": {
         "K": [
