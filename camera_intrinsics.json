@@ -1,0 +1,12 @@
+{
+    // this is my camera intrnsics
+    // replace it by your data loaded from "load_intrnsics.py"
+    "PW_313": {
+        "K":[
+            [652.03580494, 0, 303.03316234],
+            [0, 652.02131215, 252.42802933],
+            [0, 0, 1]
+        ],
+        "distortion": [[ 0.03453374, 0.1249358,   0.00275529, -0.00287436, -0.48454825]] 
+    }
+}
